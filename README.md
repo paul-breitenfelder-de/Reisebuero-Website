@@ -6,4 +6,4 @@ Feel free to use it as a template for your website! I hope this is helpful to yo
 Benutze es gerne als Vorlage für deine Website! Ich hoffe ich kann dir damit weiterhelfen und ein wenig Inspiration geben.
 
 <b>PREVIEW / VORSCHAU:</b>
-<a href="reisebuero.netlify.app">reisebuero.netlify.app</a>
+<a href="https://reisebuero.netlify.app">reisebuero.netlify.app</a>
